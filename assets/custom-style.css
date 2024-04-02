@@ -1,0 +1,21 @@
+
+body{
+    background: #536247;
+    color: white;
+}
+.txt-white{
+    color: white;
+}
+
+.bg-body-custom{
+   
+    background: linear-gradient(#4C6584,#456EA2);
+}
+.btn-outline-custom{
+    border:2px solid #89A275;
+    color: white;
+}
+.btn-outline-custom:hover{
+    background-color: #89A275;
+    color: white;
+}
